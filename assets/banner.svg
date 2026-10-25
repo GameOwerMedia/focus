@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="focus">
+<defs>
+  <radialGradient id="glow" cx="78%" cy="50%" r="55%"><stop offset="0" stop-color="#8095ff" stop-opacity=".22"/><stop offset="1" stop-color="#8095ff" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1280" height="400" rx="22" fill="#0d0e10"/>
+<rect width="1280" height="400" rx="22" fill="url(#grid)"/>
+<rect width="1280" height="400" rx="22" fill="url(#glow)"/>
+<g transform="translate(72 74)">
+  <circle cx="17" cy="17" r="5.5" fill="#ececee"/>
+  <g fill="#8095ff"><circle cx="17" cy="3" r="3.2"/><circle cx="29.1" cy="10" r="3.2"/><circle cx="29.1" cy="24" r="3.2"/><circle cx="17" cy="31" r="3.2"/><circle cx="4.9" cy="24" r="3.2"/><circle cx="4.9" cy="10" r="3.2"/></g>
+</g>
+<text x="72" y="168" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="750" letter-spacing="-2" fill="#ececee">focus</text>
+<text x="72" y="214" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="23" fill="#a8adb5">A focus group in one pass: ten everyday users and ten</text>
+<text x="72" y="246" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="23" fill="#a8adb5">decision-makers react to your product, then one synthesis.</text>
+<g transform="translate(72.0 300)"><rect width="75.4" height="30" rx="15" fill="#1b1e22" stroke="#333840"/><text x="37.7" y="20" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#a8adb5" text-anchor="middle">10 + 10</text></g><g transform="translate(157.4 300)"><rect width="100.0" height="30" rx="15" fill="#1b1e22" stroke="#333840"/><text x="50.0" y="20" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#a8adb5" text-anchor="middle">lite 3 + 3</text></g><g transform="translate(267.4 300)"><rect width="91.8" height="30" rx="15" fill="#1b1e22" stroke="#333840"/><text x="45.9" y="20" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#a8adb5" text-anchor="middle">worldwide</text></g><g transform="translate(369.2 300)"><rect width="157.4" height="30" rx="15" fill="#1b1e22" stroke="#333840"/><text x="78.7" y="20" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#a8adb5" text-anchor="middle">pluggable markets</text></g>
+<circle cx="940.5" cy="66.1" r="8" fill="#6c7cff"/><circle cx="906.2" cy="55.1" r="10" fill="#14b8a6"/><circle cx="866.8" cy="50.0" r="8" fill="#22c55e"/><circle cx="864.8" cy="93.2" r="10" fill="#ef4444"/><circle cx="828.1" cy="96.5" r="8" fill="#eab308"/><circle cx="790.4" cy="106.9" r="10" fill="#f59e0b"/><circle cx="814.1" cy="145.7" r="8" fill="#ec4899"/><circle cx="783.8" cy="162.5" r="10" fill="#0ea5e9"/><circle cx="756.7" cy="186.0" r="8" fill="#a855f7"/><circle cx="800.6" cy="211.2" r="10" fill="#06b6d4"/><circle cx="783.8" cy="237.5" r="8" fill="#6c7cff"/><circle cx="773.8" cy="268.3" r="10" fill="#14b8a6"/><circle cx="827.3" cy="274.0" r="8" fill="#22c55e"/><circle cx="828.1" cy="303.5" r="10" fill="#ef4444"/><circle cx="837.6" cy="334.5" r="8" fill="#eab308"/><circle cx="888.0" cy="319.2" r="10" fill="#f59e0b"/><circle cx="906.2" cy="344.9" r="8" fill="#ec4899"/><circle cx="932.8" cy="368.6" r="10" fill="#0ea5e9"/><g transform="translate(1000 154)">
+      <rect width="170" height="92" rx="46" fill="#15171a" stroke="#333840"/>
+      <text x="85" y="42" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ececee" text-anchor="middle">synthesis</text>
+      <text x="85" y="62" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#8095ff" text-anchor="middle">10 + 10 voices</text>
+    </g>
+</svg>

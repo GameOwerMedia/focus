@@ -1,0 +1,23 @@
+{
+  "name": "focus",
+  "owner": {
+    "name": "OverJK",
+    "url": "https://github.com/GameOwerMedia"
+  },
+  "metadata": {
+    "description": "focus: a focus group of ten users and ten decision-makers in one pass.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "focus",
+      "source": "./",
+      "description": "A simulated focus group in one pass: ten everyday users and ten decision-makers react to your product in their own voices, then one synthesis with a scoreboard, deal-breakers and ranked changes.",
+      "version": "0.1.0",
+      "author": { "name": "OverJK" },
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["focus-group", "personas", "user-research", "product-review", "pitch", "positioning"]
+    }
+  ]
+}
